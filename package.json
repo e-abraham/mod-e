@@ -1,12 +1,13 @@
 {
-  "name": "webServers",
+  "name": "webservers",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "jest",
     "start": "node app/server.js",
-    "seed": "node bin/populateDb.js"
+    "seed": "node bin/populateDb.js",
+    "start-dev": "npm run start && npm run seed"
   },
   "keywords": [],
   "author": "",
