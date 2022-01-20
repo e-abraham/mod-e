@@ -7,7 +7,7 @@
     "test": "jest",
     "start": "node app/server.js",
     "seed": "node bin/populateDb.js",
-    "start-dev": "npm run start && npm run seed"
+    "start-dev": "npm run seed && npm start"
   },
   "keywords": [],
   "author": "",

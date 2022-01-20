@@ -8,4 +8,5 @@ RUN npm install
 
 COPY . .
 
-CMD ["npm", "start-dev"]
+# Seed db and start server
+CMD ["npm", "run", "start-dev"] 

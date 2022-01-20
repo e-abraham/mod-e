@@ -47,9 +47,9 @@ Improving upon previous inventory app for 4 warehouses. Each warehouse displays 
 - git rm --cached db.sqlite
 
 # Docker Commands
-- docker build -t mod3-project .
-- docker run -d -p 3000:3000 mod3-project
-- docker run -d -p 3000:3000 mod3-project sh -c "npm run seed && npm start"
+- docker build -t dockerID/imagename .
+- docker run -d -p 3000:3000 --name=containername dockerID/imagename
+- docker run -d -p 3000:3000 --name=containername dockerID/imagename sh -c "npm run seed && npm start"
 
 
 
