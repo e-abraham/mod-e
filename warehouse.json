@@ -73,7 +73,7 @@
     },
     {
         "name": "Elizabeth",
-        "image": "/img/elizabeth/Rubberduck.jpg",
+        "image": "/img/elizabeth/Elizabeth2.jpg",
         "aisle": [
             {
                 "name": "Fashion",
@@ -138,6 +138,14 @@
                         "category": "Home",
                         "price": 12.00,
                         "description": "Tropical Shower Curtain with banana shaped hooks, designed to be used with or without a liner.Have a tropical experience in your shower!!!"
+                    },
+                    {
+                        "name": "Rubber Duck",
+                        "image": "/img/elizabeth/Rubberduck.jpg",
+                        "quantity": "1",
+                        "category": "Home",
+                        "price": 4.00,
+                        "description": "Cute rubber duck shaped like a friend!"
                     }
                 ]
             }
