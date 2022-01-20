@@ -73,42 +73,42 @@
     },
     {
         "name": "Elizabeth",
-        "image": "/img/elizabeth/Elizabeth2.jpg",
+        "image": "/img/elizabeth/Cat.jpg",
         "aisle": [
             {
-                "name": "Fashion",
+                "name": "Fresh Fashion",
                 "items": [
                     {
-                        "name": "Yellow Crocs",
-                        "image": "/img/elizabeth/Shoes.jpg",
+                        "name": "Floral Necklace",
+                        "image": "/img/elizabeth/Necklace.jpg",
+                        "quantity": "1",
+                        "category": "Jewelry",
+                        "price": 45.00,
+                        "description": "Pastel flowers strung together on a golden chain."
+                    },
+                    {
+                        "name": "Combat Boots",
+                        "image": "/img/elizabeth/Boots.jpg",
                         "quantity": "1",
                         "category": "Shoes",
-                        "price": 60.00,
-                        "description": "Yellow bedazzled with Gold, comfortable fit"
+                        "price": 35.00,
+                        "description": "Black lace up combat boots, be ready for anything from exploring the woods to getting brunch!"
                     },
                     {
-                        "name": "Padded Banana Jacket",
-                        "image": "/img/elizabeth/jacket.jpg",
+                        "name": "Blue Sweater",
+                        "image": "/img/elizabeth/Sweater.jpg",
                         "quantity": "1",
                         "category": "Clothing",
-                        "price": 40.00,
-                        "description": "yellow padded jacket with banana print all over, stand out in a crowd!"
+                        "price": 18.00,
+                        "description": "Soft cotton blend and fade-resistant blue make this sweater a chic and comfy staple piece in any wardrobe. "
                     },
                     {
-                        "name": "Toe Socks",
-                        "image": "/img/elizabeth/socks.jpg",
-                        "quantity": "1",
-                        "category": "Clothing",
-                        "price": 8.00,
-                        "description": "Enhanced levels of stability and grip.Three-dimensional knitting method ensures a natural fit that’s easy to slip on. "
-                    },
-                    {
-                        "name": "Dolce Gabanna pants",
-                        "image": "/img/elizabeth/pants.jpg",
+                        "name": "Paisley Pants",
+                        "image": "/img/elizabeth/Pants.jpg",
                         "quantity": "1",
                         "category": "Clothing",
                         "price": 55.00,
-                        "description": "Banana Print Denim Capri Jeans"
+                        "description": "Coral paisley print pants with slightly flared leg."
                     }
                 ]
             },
@@ -116,20 +116,20 @@
                 "name": "Home Decor",
                 "items": [
                     {
-                        "name": "Rocking Chair",
-                        "image": "/img/elizabeth/banana_chair.jpg",
+                        "name": "Crystal Chandelier",
+                        "image": "/img/elizabeth/Chandelier.jpg",
                         "quantity": "1",
                         "category": "Home",
-                        "price": 125.00,
-                        "description": "Recliner Rocking Chair, Removable and Washable."
+                        "price": 300.00,
+                        "description": "A beautiful floral chandelier with crystal petals sure to add some class and romantic atmosphere."
                     },
                     {
-                        "name": "Canvas Wall Art",
-                        "image": "/img/elizabeth/wall_art.jpg",
+                        "name": "Mandala Wall Art",
+                        "image": "/img/elizabeth/WallArt.jpg",
                         "quantity": "1",
                         "category": "Home",
-                        "price": 40.00,
-                        "description": "100% premium canvas, made with the best materials, ensuring longer lifespan and durability.Very Eye Catching!!"
+                        "price": 50.00,
+                        "description": "Intricate Mandala pattern on 100% premium canvas, always the best quality materials!"
                     },
                     {
                         "name": "Shower Curtain",
@@ -150,7 +150,7 @@
                 ]
             }
         ]
-    },
+    },,
     {
         "name": "Abdi",
         "image": "img/abdi/sloan-play-kitchen-j.jpg",
