@@ -96,7 +96,7 @@
                     },
                     {
                         "name": "Blue Sweater",
-                        "image": "/img/elizabeth/Sweater.jpg",
+                        "image": "/img/elizabeth/Sweater.jpeg",
                         "quantity": "1",
                         "category": "Clothing",
                         "price": 18.00,
@@ -104,7 +104,7 @@
                     },
                     {
                         "name": "Paisley Pants",
-                        "image": "/img/elizabeth/Pants.jpg",
+                        "image": "/img/elizabeth/Pants.jpeg",
                         "quantity": "1",
                         "category": "Clothing",
                         "price": 55.00,
